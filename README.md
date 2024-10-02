@@ -11,3 +11,5 @@ supports github flavored markdown. renders tables, code blocks, checkboxes.
 why: every other previewer either needs electron or breaks on fenced code blocks.
 
 MIT
+
+# PR Merge: 2025-10-26 13:56:23
